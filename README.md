@@ -4,7 +4,7 @@
 
 ```
 const qiqi = {
-    pronouns: "she" | "her",
+    pronouns: ["she", "her"],
     code: ["javascript", "typescript", "python", "rust"],
     askMeAbout: ["web dev", "open source civic projects", "music"],
     technologies: {
@@ -22,11 +22,13 @@ const qiqi = {
         misc: ["cypress", "mocha", "appwrite", "material ui", "ant design", "tailwindcss"]
     },
     currentFocus: "exploring ai integration",
-    funFact: "i'm champion from a singing competition"
+    funFact: "i'm champion from a singing competition, and i love to empower others"
 };
 ```
 
-[🎤 catch a glimpse of me singing](https://www.youtube.com/watch?v=emZPQov5IKk&t=2646s)
+🎤 [catch a glimpse of me singing](https://www.youtube.com/watch?v=emZPQov5IKk&t=2646s)
+
+👩🏻‍🏫 [catch a glimpse of me hosting educational workshop](https://x.com/JetProtocol/status/1501288976325361668?s=20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

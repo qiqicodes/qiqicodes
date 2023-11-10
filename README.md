@@ -12,7 +12,7 @@ const qiqi = {
             js: ["node", "express"],
         },
         frontEnd: {
-            js: ["React", "Next", "Redux"],
+            js: ["react", "next", "redux"],
         },
         blockchain: {
             rust: ["solana", "anchor"]
@@ -21,8 +21,8 @@ const qiqi = {
         databases: ["postgresql", "mongodb"],
         misc: ["cypress", "mocha", "appwrite", "material ui", "ant design", "tailwindcss"]
     },
-    currentFocus: "Exploring AI integration",
-    funFact: "I'm champion from a singing competition"
+    currentFocus: "exploring ai integration",
+    funFact: "i'm champion from a singing competition"
 };
 ```
 

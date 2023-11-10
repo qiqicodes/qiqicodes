@@ -17,7 +17,7 @@ const qiqi = {
         blockchain: {
             rust: ["solana", "anchor"]
         }
-        devOps: ["gcp", "docker🐳", "github action"],
+        devOps: ["github action", "docker🐳", "gcp"],
         databases: ["postgresql", "mongo"],
         misc: ["cypress", "mocha", "appwrite", "material ui", "ant design", "tailwindcss"]
     },
@@ -30,8 +30,9 @@ const qiqi = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/qiqiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qiqiz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/qiqiz/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="qiqiz" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

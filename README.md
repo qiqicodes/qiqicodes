@@ -17,11 +17,11 @@ const qiqi = {
         blockchain: {
             rust: ["solana", "anchor"]
         }
-        devOps: ["github action", "docker🐳", "gcp"],
+        devOps: ["github action", "docker🐳", "aws", "gcp"],
         databases: ["postgresql", "mongodb"],
-        misc: ["cypress", "mocha", "appwrite", "material ui", "ant design", "tailwindcss"]
+        misc: ["cypress", "mocha", "jest", "appwrite", "material ui", "ant design", "tailwindcss"]
     },
-    currentFocus: "exploring ai integration",
+    currentFocus: "exploring cloud services",
     funFact: "i'm champion from a singing competition, and i love to empower others"
 };
 ```
